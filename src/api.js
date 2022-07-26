@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-//const API_KEY = "5eb49566d020d9a874bb1c9ca820370a"; // main
-const API_KEY = "1f785a44909f5caa7f3b9e850b607741";
+const API_KEY = "5eb49566d020d9a874bb1c9ca820370a"; // main
+//const API_KEY = "1f785a44909f5caa7f3b9e850b607741";
 
 async function getStocks() {
   const url = `https://financialmodelingprep.com/api/v3/nasdaq_constituent?apikey=${API_KEY}`;
