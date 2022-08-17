@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-https://master.d3aolic7sm8q2j.amplifyapp.com/stocks and updated my GitHub. You can find the 
+https://master.d3aolic7sm8q2j.amplifyapp.com/stocks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
